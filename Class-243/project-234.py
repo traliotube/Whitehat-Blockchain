@@ -1,7 +1,7 @@
 from web3 import Web3
 from web3.middleware import geth_poa_middleware
 
-url = "https://mainnet.infura.io/v3/cded6e6690d04259b05137dd10b170c3"
+url = "https://mainnet.infura.io/v3/e7d4cf0138ed4b49a16824c73860a63a"
 
 web3 = Web3(Web3.HTTPProvider(url))
 
